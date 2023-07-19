@@ -1,0 +1,97 @@
+
+.gg{
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 50vh;
+  background-size: cover;
+  display: flex;
+  margin-left: 500px;
+}
+.ll{
+ background-color: transparent;
+ border: 0.125em solid #1A1A1A;
+ border-radius: 0.9375em;
+ box-sizing: border-box;
+ color: #ea6868;
+ cursor: pointer;
+ display: inline-block;
+ font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+ font-size: 16px;
+ font-weight: 600;
+ line-height: normal;
+ margin: 0;
+ min-height: 3.75em;
+ min-width: 0;
+ outline: none;
+ padding: 1em 2.3em;
+ text-align: center;
+ text-decoration: none;
+ transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+ user-select: none;
+ -webkit-user-select: none;
+ touch-action: manipulation;
+ will-change: transform;
+ 
+}
+.yy{
+  margin-left: 550px;
+  /* margin-bottom: 1700px; */
+}
+.yy:disabled {
+ pointer-events: none;
+}
+
+.yy:hover {
+ color: #fff;
+ background-color: #1A1A1A;
+ box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+ transform: translateY(-2px);
+}
+
+.yy:active {
+ box-shadow: none;
+ transform: translateY(0);
+}
+
+.environmental-volunteering-container h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #000000;
+}
+
+.environmental-volunteering-container p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  color: #000000;
+}
+
+.environmental-volunteering-container h3 {
+  font-size: 1.4rem;
+  margin-bottom: 10px;
+  color: #000000;
+}
+
+.environmental-volunteering-container ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-bottom: 20px;
+  color: #000000;
+}
+
+.environmental-volunteering-container ul li {
+  margin-bottom: 5px;
+}
+
+.environmental-volunteering-container p.contact-info {
+  margin-top: 20px;
+  color: #000000;
+ } 
+ .ol{
+  font-size: larger ;
+  margin-left: 20px;
+ }
+
+ .ko{
+  margin-left: 600px;
+ }
